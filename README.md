@@ -1,11 +1,12 @@
 # Playground
 
-## Présentation
+## Overview
 
-Ce site a fait office de bac à sable à expérimentation lorsque j'étais en train d'apprendre le web, il contient tout un tas d'effets répartis en sections indépendantes les unes des autres que vous découvrirez en scrollant et en jouant avec les différents éléments (en cliquant ou en passant la souris dessus). \
-Vous pouvez y accéder à [`https://tests.pifpafdeluxe.fr/`](https://tests.pifpafdeluxe.fr/)
+This site served as an experimental sandbox while I was learning web development. \
+It contains a variety of effects, each organized into independent sections that you can discover by scrolling and interacting with different elements (by clicking or hovering over them). \
+You can visit it at [`https://tests.pifpafdeluxe.fr/`](https://tests.pifpafdeluxe.fr/).
 
-## Exemples
+## Examples
 
 > ![example1](examples/example1.png)
 
